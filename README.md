@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soumil
 
-🚀 **Interactive Systems & Visualization Engineer**
+🚀 **Full Stack & Data Visualization Engineer**
 
 I build real-time dashboards, simulation engines, and intelligent systems that combine **data, design, and performance**.
 
