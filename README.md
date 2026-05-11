@@ -12,7 +12,7 @@
 
 - 🔭 I have **19** public repositories on GitHub
 - 🌍 Based from Pune
-- ⭐ **23** total stars earned across my projects
+- ⭐ **26** total stars earned across my projects
 - 👥 **1** followers · **1** following
 
 ---
@@ -35,12 +35,12 @@
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [**F1-Reporter**](https://github.com/SOUMILCHANDRA/F1-Reporter) | A high-fidelity Formula 1 intelligence dashboard built with Flutter and FastAPI, featuring real-time telemetry, tyre strategy analysis, standings, and immersive data visualization. | ⭐ 0 | Dart |
-| [**MapArt**](https://github.com/SOUMILCHANDRA/MapArt) | — | ⭐ 0 | TypeScript |
-| [**Soumil-Chandra**](https://github.com/SOUMILCHANDRA/Soumil-Chandra) | — | ⭐ 0 | — |
-| [**Social-Connect**](https://github.com/SOUMILCHANDRA/Social-Connect) | A research-grade graph analysis system built in C++, featuring BFS, DFS, Dijkstra, and MST algorithms with dual visualization via terminal and D3.js. | ⭐ 0 | C++ |
-| [**Turbo-cart**](https://github.com/SOUMILCHANDRA/Turbo-cart) | A modular anti-gravity kart controller for Unity, featuring Rigidbody-based physics, hover suspension, and arcade-style racing mechanics. | ⭐ 0 | C# |
-| [**Elevator**](https://github.com/SOUMILCHANDRA/Elevator) | A system-driven elevator logistics simulation featuring real-time dispatch mechanics, AI automation, and immersive vertical architecture. | ⭐ 0 | HTML |
+| [**F1-Reporter**](https://github.com/SOUMILCHANDRA/F1-Reporter) | A high-fidelity Formula 1 intelligence dashboard built with Flutter and FastAPI, featuring real-time telemetry, tyre strategy analysis, standings, and immersive data visualization. | ⭐ 1 | Dart |
+| [**MapArt**](https://github.com/SOUMILCHANDRA/MapArt) | — | ⭐ 1 | TypeScript |
+| [**Soumil-Chandra**](https://github.com/SOUMILCHANDRA/Soumil-Chandra) | — | ⭐ 1 | — |
+| [**Social-Connect**](https://github.com/SOUMILCHANDRA/Social-Connect) | A research-grade graph analysis system built in C++, featuring BFS, DFS, Dijkstra, and MST algorithms with dual visualization via terminal and D3.js. | ⭐ 1 | C++ |
+| [**Turbo-cart**](https://github.com/SOUMILCHANDRA/Turbo-cart) | A modular anti-gravity kart controller for Unity, featuring Rigidbody-based physics, hover suspension, and arcade-style racing mechanics. | ⭐ 1 | C# |
+| [**Elevator**](https://github.com/SOUMILCHANDRA/Elevator) | A system-driven elevator logistics simulation featuring real-time dispatch mechanics, AI automation, and immersive vertical architecture. | ⭐ 1 | HTML |
 
 ---
 
