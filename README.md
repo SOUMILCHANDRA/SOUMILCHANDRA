@@ -92,7 +92,7 @@
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful!  ⭐**
+**⭐ Star my repos if you find them useful! ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,9,10&height=80&section=footer" width="100%" />
 
