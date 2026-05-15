@@ -10,7 +10,7 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
-- 🔭 I have **19** public repositories on GitHub
+- 🔭 I have **23** public repositories on GitHub
 - 🌍 Based from Pune
 - ⭐ **26** total stars earned across my projects
 - 👥 **1** followers · **1** following
