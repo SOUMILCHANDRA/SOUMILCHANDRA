@@ -12,7 +12,7 @@
 
 - 🔭 I have **22** public repositories on GitHub
 - 🌍 Based from Pune
-- ⭐ **26** total stars earned across my projects
+- ⭐ **27** total stars earned across my projects
 - 👥 **1** followers · **1** following
 
 ---
